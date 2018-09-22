@@ -1,16 +1,21 @@
 _repo: Seeing-America-First-With-the-Berry-Brothers_55713
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pfeiffer, F. W.
     gutenberg_agent_id: '48467'
     url: http://www.gutenberg.org/2009/agents/48467
+covers:
+- cover_type: archival
+  image_path: 55713-h/images/cover.jpg
 creator:
   author:
     agent_name: Colby, Eleanor
     gutenberg_agent_id: '48466'
     url: http://www.gutenberg.org/2009/agents/48466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55713#Seeing-America-First-With-the-Berry-Brothers
 gutenberg_issued: '2017-10-09'
 gutenberg_type: Text
 identifiers:
